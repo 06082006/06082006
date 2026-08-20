@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bindu Singh M J
 
-### 🎓 BCA Student | 💻 Developer | 🤖 AI Enthusiast | 🌱 Constant Learner
+### 🎓 BCA Student | 💻 Developer | 🤖 AI Enthusiast | 🌱 Learner
 
 I'm a BCA student from Mysore who started exploring technology out of curiosity and gradually turned that curiosity into a habit of **learning, building, experimenting, and sharing**.
 
