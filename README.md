@@ -40,7 +40,8 @@ I'm currently working on becoming someone who can take an idea from:
 
 ### Tools
 
-`Git` `GitHub` `VS Code` `Canva` `MS Office`
+`Git` `GitHub` `VS Code` `Canva` `MS Office` `tinkercard`
+
 
 ### AI Tools
 
