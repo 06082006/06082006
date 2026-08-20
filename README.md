@@ -48,47 +48,6 @@ I'm currently working on becoming someone who can take an idea from:
 
 ---
 
-## 🚀 Things I'm Building
-
-### 🤝 MicMitra
-
-**MicMitra** is a student-focused initiative that I started with the idea of helping students become more confident and better prepared for opportunities beyond academics.
-
-The idea came from something I noticed around me — many students have potential, but don't always get enough opportunities to develop skills like **communication, confidence, leadership, resume building, interview skills and awareness of career opportunities**.
-
-Through MicMitra, I'm exploring ways to create learning sessions, discussions and resources that help students take that next step.
-
-For me, MicMitra is not just about conducting sessions.
-
-**It's about creating a space where students feel comfortable learning, asking questions and growing.**
-
----
-🎓 Academic Verification System
-
-A demo project exploring how technology can make academic credential verification simpler and help identify potentially fake or manipulated certificates.
-
-Focus: Academic Verification • Digital Credentials • Trust & Security
-
-### 🏪 Smart Ration Shop
-
-An IoT-based inventory management project designed to digitally manage ration shop inventory.
-
-**Technologies:** ESP8266 • OLED • Keypad • Google Sheets
-
----
-
-### 🎥 CodeTube
-
-A project focused on creating an accessible platform for programming-related learning resources.
-
----
-
-### 🤖 AI Health Assistant
-
-An AI-based project concept exploring how technology can make health-related information and assistance more accessible.
-
----
-
 ## 🌱 Currently Learning
 
 ☕ Java
